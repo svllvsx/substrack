@@ -3,9 +3,9 @@
 <p align="center"><b>PUBLIC PROJECT · ПУБЛИЧНЫЙ ПРОЕКТ</b><br>
 <a href="https://github.com/svllvsxprod/substrack-releases">Original repository / Оригинальный репозиторий ↗</a> · <a href="https://github.com/svllvsx">Portfolio / Портфолио</a></p>
 
-> **Public subscription manager downloads.** Публичные сборки менеджера подписок.
-> This is a README showcase. Source code, releases and development instructions belong to the original repository.
-> Это README-витрина. Исходники, релизы и команды разработки относятся к оригинальному репозиторию.
+> **SubsTrack** · Учёт подписок, платежей и напоминаний.
+> This is a README showcase. Public releases and product documentation are maintained in the original repository. The application source code remains private.
+> Это README-витрина. Публичные релизы и документация находятся в оригинальном репозитории. Исходный код приложения остаётся приватным.
 
 ---
 
